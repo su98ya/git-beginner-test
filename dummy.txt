@@ -6,4 +6,5 @@
 라인5
 라인6
 
-git reset 강의작업하기위해 수정해봄.
+reset을 위한 dummy text2
+
